@@ -1,0 +1,38 @@
+{
+  "name": "anchored",
+  "version": "1.0.0",
+  "description": "A lightweight JavaScript library that transforms plain URLs into clickable links.",
+  "main": "anchored.js",
+  "types": "./anchored.d.ts",
+  "exports": {
+    ".": {
+      "types": "./anchored.d.ts",
+      "default": "./anchored.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opensly/anchored.git"
+  },
+  "keywords": [
+    "url",
+    "link",
+    "href",
+    "anchor",
+    "clickable links",
+    "reference",
+    "references",
+    "javascript",
+    "dom",
+    "string",
+    "text"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/opensly/anchored/issues"
+  },
+  "homepage": "https://github.com/opensly/anchored#readme"
+}
